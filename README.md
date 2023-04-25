@@ -2,14 +2,6 @@
 Arduino Data Logger for UND Flying Team
 
 
-Elements Logged:
+Format:
 
-Altitude (MSL)
-
-Latitude
-
-Longitude
-
-Time (UTC)
-
-Sound (Analog)
+Latitude, Longitude, Time (UTC), Sound (Analog), Altitude (MSL)
