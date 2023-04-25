@@ -1,26 +1,21 @@
 /*
   Using Arduino UNO R3
- 
   
-  GPS Position Logger
-  gps-position-logger.ino
-  Read GPS data from BN-220 or any serial GPS sensor
-  Requires TinyGPS++ Library
-  Save to SD or microSD card
+  Utilizes GPS Position Logger from DroneBotWorkshop
  
-  GPS
+  BN-180 GPS
   VCC - 5V
   RX - 3
   TX - 4
   GND
 
-  Sound Detector
+  Sparkfun Sound Detector
   Envelope - A0
   VCC - 5V
   Gate - 2
   GND
 
-  MicroSD
+  Sparkfun MicroSD Breakout
   VCC - 5V
   CS - 8
   DI - 11
